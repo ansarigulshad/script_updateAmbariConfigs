@@ -1,0 +1,5 @@
+hadoop.proxyuser.hcat.hosts=*
+hadoop.proxyuser.hive.hosts=*
+hadoop.proxyuser.root.hosts=*
+hadoop.proxyuser.root.groups=*
+yarn.nodemanager.resource.memory-mb=15370
